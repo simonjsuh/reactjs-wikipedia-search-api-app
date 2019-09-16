@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs-wikipedia-search-api-app/static/css/main.cdf0f34f.chunk.css",
+    "main.js": "/reactjs-wikipedia-search-api-app/static/js/main.9555ed95.chunk.js",
+    "main.js.map": "/reactjs-wikipedia-search-api-app/static/js/main.9555ed95.chunk.js.map",
+    "runtime~main.js": "/reactjs-wikipedia-search-api-app/static/js/runtime~main.42bce36e.js",
+    "runtime~main.js.map": "/reactjs-wikipedia-search-api-app/static/js/runtime~main.42bce36e.js.map",
+    "static/js/2.d25b1718.chunk.js": "/reactjs-wikipedia-search-api-app/static/js/2.d25b1718.chunk.js",
+    "static/js/2.d25b1718.chunk.js.map": "/reactjs-wikipedia-search-api-app/static/js/2.d25b1718.chunk.js.map",
+    "index.html": "/reactjs-wikipedia-search-api-app/index.html",
+    "precache-manifest.d2d08b2a9716639c966681b181564fef.js": "/reactjs-wikipedia-search-api-app/precache-manifest.d2d08b2a9716639c966681b181564fef.js",
+    "service-worker.js": "/reactjs-wikipedia-search-api-app/service-worker.js",
+    "static/css/main.cdf0f34f.chunk.css.map": "/reactjs-wikipedia-search-api-app/static/css/main.cdf0f34f.chunk.css.map"
+  }
+}
